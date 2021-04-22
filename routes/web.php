@@ -16,7 +16,7 @@ Auth::routes();
 Route::get('/', "UserController@home");
 Route::get('/pricing', "UserController@pricing");
 Route::get('/aboutus', "UserController@aboutus");
-Route::get('/services', "UserController@services");
+Route::get('/how-it-works', "UserController@howitworks");
 Route::get('/contactus', "UserController@contactus");
 Route::post('send-email', "UserController@sendEmail");
 

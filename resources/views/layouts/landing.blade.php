@@ -36,30 +36,30 @@
 
 
 <header class="header-area">
-    <div class="top-header">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-5 col-md-5">
-                    <div class="top-header-left">
-                        <p><span style="color: white">Call Now : </span> <a href="tel:3346350979">334-635-0979</a></p>
-                    </div>
-                </div>
-                <div class="col-lg-7 col-md-7">
-                    <div class="top-header-right">
+{{--    <div class="top-header">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row align-items-center">--}}
+{{--                <div class="col-lg-5 col-md-5">--}}
+{{--                    <div class="top-header-left">--}}
+{{--                        <p><span style="color: white">Call Now : </span> <a href="tel:3346350979">334-635-0979</a></p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-lg-7 col-md-7">--}}
+{{--                    <div class="top-header-right">--}}
 {{--                        <div class="login-signup-btn">--}}
 {{--                            <p><a href="#">Login</a> <span>or</span> <a href="#">Register</a></p>--}}
 {{--                        </div>--}}
-                        <ul class="social">
-                            <li><a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+{{--                        <ul class="social">--}}
+{{--                            <li><a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>--}}
+{{--                            <li><a href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>--}}
+{{--                            <li><a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>--}}
+{{--                            <li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>--}}
+{{--                        </ul>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div class="navbar-area">
         <div class="bahama-mobile-nav">
@@ -73,18 +73,18 @@
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
                     <a class="navbar-brand" href="{{url('')}}">
-                        <img src="{{url('')}}/assets/img/logo.jpg" alt="logo"  style="height: 80px!important;width: 150px!important;">
+                        <img src="{{url('')}}/assets/img/logo.jpg" alt="logo"  style="height: 100px!important;width: 180px!important;">
                     </a>
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav">
                             <li class="nav-item"><a href="{{url('')}}" class="nav-link {{\Request::is('/') ? 'active' : ''}}">Home </a></li>
-                            <li class="nav-item"><a href="{{url('services')}}" class="nav-link {{\Request::is('services') ? 'active' : ''}}">Services</a></li>
+                            <li class="nav-item"><a href="{{url('how-it-works')}}" class="nav-link {{\Request::is('how-it-works') ? 'active' : ''}}">HOW IT WORKS</a></li>
 {{--                            <li class="nav-item"><a href="{{url('services')}}" class="nav-link">How it works</a></li>--}}
-                            <li class="nav-item"><a href="{{url('aboutus')}}" class="nav-link {{\Request::is('aboutus') ? 'active' : ''}}">About Us</a></li>
-                            <li class="nav-item"><a href="{{url('pricing')}}" class="nav-link {{\Request::is('pricing') ? 'active' : ''}}">Pricing</a></li>
-                            <li class="nav-item"><a href="https://towercoverage.com" target="_blank" class="nav-link" >Coverage</a></li>
-                            <li class="nav-item"><a href="https://portal.eagleinternetservices.com" target="_blank" class="nav-link">Portal</a></li>
-                            <li class="nav-item"><a href="{{url('contactus')}}" class="nav-link {{\Request::is('contactus') ? 'active' : ''}}">Contact</a></li>
+                            <li class="nav-item"><a href="{{url('aboutus')}}" class="nav-link {{\Request::is('aboutus') ? 'active' : ''}}">ABOUT US</a></li>
+                            <li class="nav-item"><a href="{{url('pricing')}}" class="nav-link {{\Request::is('pricing') ? 'active' : ''}}">PRICING</a></li>
+                            <li class="nav-item"><a href="https://towercoverage.com" class="nav-link" >COVERAGE</a></li>
+                            <li class="nav-item"><a href="https://portal.eagleinternetservices.com" class="nav-link">PAYMENT PORTAL</a></li>
+{{--                            <li class="nav-item"><a href="{{url('contactus')}}" class="nav-link {{\Request::is('contactus') ? 'active' : ''}}">Contact</a></li>--}}
                         </ul>
 {{--                        <div class="others-options">--}}
 {{--                            <a href="{{url('contactus')}}" class="btn btn-primary">Get Started</a>--}}
@@ -98,44 +98,55 @@
 </header>
                 @yield('content')
 
-
-<footer class="footer-area">
+<section class="cta-area" style="margin-top: 20px!important;">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="single-footer-widget">
-                    <div class="logo">
-                        <a href="#"><img src="{{url('')}}/assets/img/logo.jpg" alt="image" style="width: 150px;height: 150px"></a>
-{{--                        <p style="color: white!important;">--}}
-{{--                            <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>--}}
-{{--                            <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>--}}
-{{--                            <a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a>--}}
-{{--                            <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>--}}
-{{--                        </p>--}}
-                    </div>
+        {{--        <div style="margin: 0 auto;max-width: 200px">--}}
+        {{--            <a href="#" style="color: black">--}}
+        {{--                <i class="fa fa-facebook" style="color: black"></i>--}}
+        {{--            </a>--}}
+        {{--            <a href="#" style="margin-left: 10px">--}}
+        {{--                <i class="fa fa-twitter"></i>--}}
+        {{--            </a>--}}
+        {{--        </div>--}}
+        <h5 style="text-align: center;color: grey">
+            334-635-0979
+        </h5>
+        <h5 style="text-align: center;color: grey">
+            P.O. Box 275, Demopolis, AL 36732
+        </h5>
+        <div style="margin: 0 auto;max-width: 800px;margin-top: 50px">
+            <div class="row">
+                <div class="col-md-4">
+                    <a href="#" style="color: rgb(215, 0, 46);">Acceptable Use Policy</a>
                 </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="single-footer-widget">
-                    <h3>Get In Touch</h3>
-                    <div class="widget-contact-info">
-                        <p>
-                            <a href="#">334-635-0979</a>
-                            P.O. Box 275, Demopolis, AL 36732
-                        </p>
-                    </div>
+                <div class="col-md-4">
+                    <a href="#" style="color: rgb(215, 0, 46);">Terms and Conditions</a>
+                </div>
+                <div class="col-md-4">
+                    <a href="#" style="color: rgb(215, 0, 46)">SLAS</a>
                 </div>
             </div>
         </div>
+
+        {{--        <div class="row align-items-center">--}}
+        {{--            <div class="col-lg-8 col-md-12">--}}
+        {{--                <div class="cta-content">--}}
+        {{--                    <h3>Call Us Now</h3>--}}
+        {{--                    <a href="#">334-635-0979</a>--}}
+        {{--                </div>--}}
+        {{--            </div>--}}
+        {{--            <div class="col-lg-4 col-md-12">--}}
+        {{--                <div class="cta-btn">--}}
+        {{--                    <a href="https://www.towercoverage.com/" target="_blank" class="btn btn-primary">Check Coverage in Your Area</a>--}}
+        {{--                </div>--}}
+        {{--            </div>--}}
+        {{--        </div>--}}
     </div>
-    <div class="copyright-area">
+</section>
+<footer class="footer-area" style="padding-top: 0px;background: rgba(211, 211, 211, 0.17)">
+    <div class="copyright-area" style="margin-top: 0px;border-top: none">
         <div class="container">
-            <p><i class="far fa-copyright"></i> Copyrights Eagle Internet 2021. All Rights Reserved</p>
+            <p style="color: grey"><i class="far fa-copyright"></i> Copywright Eagle Internet Services LLC. All Rights Reserved</p>
         </div>
     </div>
 </footer>
