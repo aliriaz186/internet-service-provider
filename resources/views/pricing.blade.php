@@ -31,7 +31,7 @@
                         <div>
                             <h2 style="font-weight: bold">$74.90/mo</h2>
                         </div>
-                        <a href="{{url('contactus')}}" class="view-plans-btn"
+                        <a href="https://www.towercoverage.com/" class="view-plans-btn"
                            style="background: rgb(215, 0, 46);color: white">Get Started</a>
                     </div>
                 </div>
@@ -52,7 +52,7 @@
                         <div>
                             <h2 style="font-weight: bold">$84.90/mo</h2>
                         </div>
-                        <a href="{{url('contactus')}}" class="view-plans-btn"
+                        <a href="https://www.towercoverage.com/" class="view-plans-btn"
                            style="background: rgb(215, 0, 46);color: white">Get Started</a>
                     </div>
                 </div>
@@ -73,7 +73,7 @@
                         <div>
                             <h2 style="font-weight: bold">$94.90/mo</h2>
                         </div>
-                        <a href="{{url('contactus')}}" class="view-plans-btn"
+                        <a href="https://www.towercoverage.com/" class="view-plans-btn"
                            style="background: rgb(215, 0, 46);color: white">Get Started</a>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                         <div>
                             <h2 style="font-weight: bold">$104.90/mo</h2>
                         </div>
-                        <a href="{{url('contactus')}}" class="view-plans-btn"
+                        <a href="https://www.towercoverage.com/" class="view-plans-btn"
                            style="background: rgb(215, 0, 46);color: white">Get Started</a>
                     </div>
                 </div>
