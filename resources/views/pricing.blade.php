@@ -15,84 +15,84 @@
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="single-pricing-table" style="background: white">
+                    <div class="single-pricing-table" style="background: white;padding: 40px">
                         <div class="pricing-header">
                             <div>
-                                <img src="{{url('')}}/images/p1.jpg">
+{{--                                <img src="{{url('')}}/images/p1.jpg">--}}
                             </div>
                         </div>
                         <ul class="pricing-features-list">
-                            <li style="color: grey;text-align: center;font-size: 18px;"> LTE Wireless</li>
+                            <li style="color: black;text-align: center;font-size: 20px;font-weight: bold">Basic Package</li>
                             <li style="color: grey;text-align: center;font-size: 18px;"> Fixed Wireless</li>
-                            <li style="color: rgb(215, 0, 46);text-align: center;font-size: 18px;font-weight: bold">20
-                                MBPS DOWNLOAD
+                            <li style="color: rgb(215, 0, 46);text-align: center;font-size: 18px;font-weight: bold">8 up and 2 down
                             </li>
                         </ul>
                         <div>
-                            <h2 style="font-weight: bold">$74.90/mo</h2>
+                            <h2 style="font-weight: bold">$56.95/mo</h2>
                         </div>
                         <a href="https://www.towercoverage.com/" class="view-plans-btn"
                            style="background: rgb(215, 0, 46);color: white">Get Started</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="single-pricing-table" style="background: white">
+                    <div class="single-pricing-table" style="background: white;padding: 40px">
                         <div class="pricing-header">
                             <div>
-                                <img src="{{url('')}}/images/p2.jpg">
+                                {{-- <img src="{{url('')}}/images/p1.jpg">--}}
                             </div>
                         </div>
                         <ul class="pricing-features-list">
-                            <li style="color: grey;text-align: center;font-size: 18px;">Fixed Wireless</li>
-                            <li style="color: grey;text-align: center;font-size: 18px;"> Only</li>
-                            <li style="color: rgb(215, 0, 46);text-align: center;font-size: 18px;font-weight: bold">38
-                                MBPS DOWNLOAD
+                            <li style="color: black;text-align: center;font-size: 20px;font-weight: bold">Premium Package</li>
+                            <li style="color: grey;text-align: center;font-size: 18px;"> Fixed Wireless</li>
+                            <li style="color: rgb(215, 0, 46);text-align: center;font-size: 18px;font-weight: bold">
+                                12 up and 4 down
                             </li>
                         </ul>
                         <div>
-                            <h2 style="font-weight: bold">$84.90/mo</h2>
+                            <h2 style="font-weight: bold">$76.95/mo</h2>
                         </div>
                         <a href="https://www.towercoverage.com/" class="view-plans-btn"
                            style="background: rgb(215, 0, 46);color: white">Get Started</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="single-pricing-table" style="background: white">
+                    <div class="single-pricing-table" style="background: white;padding: 40px">
                         <div class="pricing-header">
                             <div>
-                                <img src="{{url('')}}/images/p3.jpg">
+                                {{-- <img src="{{url('')}}/images/p1.jpg">--}}
                             </div>
                         </div>
                         <ul class="pricing-features-list">
+                            <li style="color: black;text-align: center;font-size: 20px;font-weight: bold">Pro Package</li>
                             <li style="color: grey;text-align: center;font-size: 18px;"> Fixed Wireless</li>
-                            <li style="color: grey;text-align: center;font-size: 18px;"> Only</li>
-                            <li style="color: rgb(215, 0, 46);text-align: center;font-size: 18px;font-weight: bold">56
-                                MBPS DOWNLOAD
+                            <li style="color: rgb(215, 0, 46);text-align: center;font-size: 18px;font-weight: bold">
+                                16 up and 8 down
                             </li>
                         </ul>
                         <div>
-                            <h2 style="font-weight: bold">$94.90/mo</h2>
+                            <h2 style="font-weight: bold">$110/mo</h2>
                         </div>
                         <a href="https://www.towercoverage.com/" class="view-plans-btn"
                            style="background: rgb(215, 0, 46);color: white">Get Started</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="single-pricing-table" style="background: white">
+                    <div class="single-pricing-table" style="background: white;padding: 40px">
                         <div class="pricing-header">
                             <div>
-                                <img src="{{url('')}}/images/p4.jpg">
+                                {{-- <img src="{{url('')}}/images/p1.jpg">--}}
                             </div>
                         </div>
                         <ul class="pricing-features-list">
+                            <li style="color: black;text-align: center;font-size: 20px;font-weight: bold">Premier Package
+                            </li>
                             <li style="color: grey;text-align: center;font-size: 18px;"> Fixed Wireless</li>
-                            <li style="color: grey;text-align: center;font-size: 18px;"> Only</li>
-                            <li style="color: rgb(215, 0, 46);text-align: center;font-size: 18px;font-weight: bold">74
-                                MBPS DOWNLOAD
+                            <li style="color: rgb(215, 0, 46);text-align: center;font-size: 18px;font-weight: bold">
+                                25 up and 8 down
                             </li>
                         </ul>
                         <div>
-                            <h2 style="font-weight: bold">$104.90/mo</h2>
+                            <h2 style="font-weight: bold">$170/mo</h2>
                         </div>
                         <a href="https://www.towercoverage.com/" class="view-plans-btn"
                            style="background: rgb(215, 0, 46);color: white">Get Started</a>

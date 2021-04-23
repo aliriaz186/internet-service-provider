@@ -18,5 +18,9 @@ Route::get('/pricing', "UserController@pricing");
 Route::get('/aboutus', "UserController@aboutus");
 Route::get('/how-it-works', "UserController@howitworks");
 Route::get('/contactus', "UserController@contactus");
+Route::get('/acceptablepolicy', "UserController@acceptablepolicy");
+Route::get('/termsandcondition', "UserController@termsandcondition");
+Route::get('/privacypolicy', "UserController@privacypolicy");
+Route::get('/refundpolicy', "UserController@refundpolicy");
 Route::post('send-email', "UserController@sendEmail");
 

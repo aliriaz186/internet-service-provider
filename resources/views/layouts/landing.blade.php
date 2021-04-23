@@ -114,17 +114,23 @@
         <h5 style="text-align: center;color: grey">
             P.O. Box 275, Demopolis, AL 36732
         </h5>
-        <div style="margin: 0 auto;max-width: 800px;margin-top: 50px">
+        <div style="margin: 0 auto;max-width: 500px;margin-top: 50px">
             <div class="row">
-                <div class="col-md-4">
-                    <a href="#" style="color: rgb(215, 0, 46);">Acceptable Use Policy</a>
+                <div class="col-md-3">
+                    <a href="{{url('acceptablepolicy')}}" style="color: rgb(215, 0, 46);">Acceptable Use Policy</a>
                 </div>
-                <div class="col-md-4">
-                    <a href="#" style="color: rgb(215, 0, 46);">Terms and Conditions</a>
+                <div class="col-md-3">
+                    <a href="{{url('termsandcondition')}}" style="color: rgb(215, 0, 46);">Terms and Conditions</a>
                 </div>
-                <div class="col-md-4">
-                    <a href="#" style="color: rgb(215, 0, 46)">SLAS</a>
+                <div class="col-md-3">
+                    <a href="{{url('privacypolicy')}}" style="color: rgb(215, 0, 46);">Privacy Policy</a>
                 </div>
+                <div class="col-md-3">
+                    <a href="{{url('refundpolicy')}}" style="color: rgb(215, 0, 46);">Refund Policy</a>
+                </div>
+{{--                <div class="col-md-4">--}}
+{{--                    <a href="#" style="color: rgb(215, 0, 46)">SLAS</a>--}}
+{{--                </div>--}}
             </div>
         </div>
 
@@ -146,7 +152,7 @@
 <footer class="footer-area" style="padding-top: 0px;background: rgba(211, 211, 211, 0.17)">
     <div class="copyright-area" style="margin-top: 0px;border-top: none">
         <div class="container">
-            <p style="color: grey"><i class="far fa-copyright"></i> Copywright Eagle Internet Services LLC. All Rights Reserved</p>
+            <p style="color: grey"><i class="far fa-copyright"></i> Copyright Eagle Internet Services LLC. All Rights Reserved</p>
         </div>
     </div>
 </footer>

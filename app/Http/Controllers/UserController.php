@@ -40,6 +40,20 @@ class UserController extends Controller
         return view('howitworks');
     }
 
+
+    public function acceptablepolicy(){
+        return view('acceptablepolicy');
+    }
+    public function termsandcondition(){
+        return view('termsandcondition');
+    }
+    public function privacypolicy(){
+        return view('privacypolicy');
+    }
+    public function refundpolicy(){
+        return view('refundpolicy');
+    }
+
     public function contactus(){
         return view('contactus');
     }

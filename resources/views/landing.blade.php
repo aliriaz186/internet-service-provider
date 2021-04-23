@@ -11,10 +11,10 @@
 {{--                <div class="main-banner-content">--}}
 {{--                    <h1>Eagle Internet</h1>--}}
                     <ul style="color: black;font-size: 25px">
-                        <li>No Data Limits.</li>
-                        <li>Guaranteed Speed.</li>
-                        <li>No Hidden Charges.</li>
-                        <li>In House Support.</li>
+                        <li>No Data Limits</li>
+                        <li>Guaranteed Speed</li>
+                        <li>No Hidden Charges</li>
+                        <li>In House Support</li>
                     </ul>
 
 {{--                </div>--}}
@@ -68,22 +68,22 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="single-features-box">
-                    <div class="icon">
-                        <i class="fa fa-signal"></i>
-                    </div>
-                    <h3>LTE INTERNET SERVICE</h3>
+{{--            <div class="col-lg-4 col-md-6 col-sm-6">--}}
+{{--                <div class="single-features-box">--}}
+{{--                    <div class="icon">--}}
+{{--                        <i class="fa fa-signal"></i>--}}
+{{--                    </div>--}}
+{{--                    <h3>LTE INTERNET SERVICE</h3>--}}
 {{--                    <p>Lorem ipsum dolor sit do eiusmod sit consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>--}}
-                    <div class="back-icon">
-                        <i class="flaticon-speedometer-1"></i>
-                    </div>
-                    <div class="image-box">
-                        <img src="{{url('')}}/assets/img/shape-image/2.png" alt="image">
-                        <img src="{{url('')}}/assets/img/shape-image/2.png" alt="image">
-                    </div>
-                </div>
-            </div>
+{{--                    <div class="back-icon">--}}
+{{--                        <i class="flaticon-speedometer-1"></i>--}}
+{{--                    </div>--}}
+{{--                    <div class="image-box">--}}
+{{--                        <img src="{{url('')}}/assets/img/shape-image/2.png" alt="image">--}}
+{{--                        <img src="{{url('')}}/assets/img/shape-image/2.png" alt="image">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
             <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
                 <div class="single-features-box">
                     <div class="icon">
@@ -150,13 +150,17 @@
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="single-services-box" style="border-color: lightgrey">
+                <div class="single-services-box" style="border-color: lightgrey;height: 300px;overflow-y: scroll" >
                     <div class="icon">
                         <i class="fa fa-book-open"></i>
                     </div>
                     <h3>NO DATA LIMITS</h3>
                     <hr>
-                    <p>Download or upload at your maximum rates 24/7! Never worry about getting throttled to dial speeds or getting hit with large overage charges again.
+                    <p>
+                        Eagle Internet does not enforce any data caps. Therefore, you can download or upload large files (software, updates, large email attachments, etc.), run a VoIP phone system, stream music in your home or office, or use internet-based applications and databases as much as you need to in order to keep your business running at its best.
+
+
+                        {{--                        Download or upload at your maximum rates 24/7! Never worry about getting throttled or going over your rate package limits.--}}
                     </p>
                 </div>
             </div>
@@ -182,7 +186,7 @@
                     </h3>
                     <hr>
                     <p>
-                        We have no hidden charges or contracts. That means if you sign up for a $74.90 per month plan with us you
+                        We have no hidden charges and no overage fees.
                     </p>
                 </div>
             </div>
@@ -226,9 +230,39 @@
                     </h3>
                     <hr>
                     <p>
-                        Our headquarters are located Demopolis, Alabama near our coverage area. We feel an extra level of responsibility to provide a great product and customer service.
+                        Our headquarters are located in Demopolis, Alabama near our coverage area. We feel an extra level of responsibility to provide a great product and customer service.
 
 
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="single-services-box" style="border-color: lightgrey">
+                    <div class="icon">
+                        <i class="fa fa-handshake"></i>
+                    </div>
+                    <h3>No Contract
+
+                    </h3>
+                    <hr>
+                    <p>
+                        We do not want our customers to sign any contract. They can cancel their subscription anytime.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="single-services-box" style="border-color: lightgrey">
+                    <div class="icon">
+                        <i class="fa fa-credit-card"></i>
+                    </div>
+                    <h3>
+                        No Credit Check
+
+                    </h3>
+                    <hr>
+                    <p>
+                        No credit check or credit history required.
                     </p>
                 </div>
             </div>

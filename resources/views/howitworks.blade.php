@@ -37,7 +37,7 @@
         <div class="container">
             <div class="section-title">
             <span>
-            <h1 style="color: rgb(215, 0, 46);">WHY CHOOSE US</h1>
+            <h1 style="color: rgb(215, 0, 46);">HOW IT WORKS</h1>
             </span>
             </div>
             <div class="row">
@@ -101,20 +101,23 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-services-box" style="border-color: lightgrey">
+                    <div class="single-services-box" style="border-color: lightgrey;height: 430px;">
                         <div class="icon">
                             <i class="fa fa-redo"></i>
                         </div>
                         <h3>NO DATA LIMITS</h3>
                         <hr>
                         <p>
-                            You can run at your maximum information rate 24x7x365. Stream, Download and Game without worrying about having your connection throttled or receiving a huge bill at the end of the month.
+                            Eagle Internet does not enforce any data caps. Therefore, you can download or upload large files (software, updates, large email attachments, etc.), run a VoIP phone system, stream music in your home or office, or use internet-based applications and databases as much as you need to in order to keep your business running at its best.
+
+
+                            {{--                            You can run at your maximum information rate 24x7x365. Stream, Download and Game without worrying about having your connection throttled or receiving a huge bill at the end of the month.--}}
 
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-services-box" style="border-color: lightgrey">
+                    <div class="single-services-box" style="border-color: lightgrey;height: 430px;">
                         <div class="icon">
                             <i class="fa fa-home"></i>
                         </div>
@@ -123,13 +126,13 @@
                         </h3>
                         <hr>
                         <p>
-                            Headquartered in North-East Texas with In-House Sales, Installation Crews and Technical Support. Support takes on a whole new meaning when you live and work with the customers you serve.
+                            Headquartered in Southwest Alabama with In-House Sales, Installation Crews and Technical Support. Support takes on a whole new meaning when you live and work with the customers you serve.
 
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-services-box" style="border-color: lightgrey">
+                    <div class="single-services-box" style="border-color: lightgrey;height: 430px;">
                         <div class="icon">
                             <i class="fa fa-cloud-download-alt"></i>
                         </div>
@@ -138,7 +141,7 @@
                         </h3>
                         <hr>
                         <p style="padding-bottom: 10px">
-                            We are constantly upgrading and expanding our network with the latest technologies and newest gear to keep pace with increasing demands from our customers.
+                            We are constantly upgrading and expanding our network with the latest technologies and newest equipment to keep pace with increasing demands from our customers.
 
                         </p>
                     </div>
