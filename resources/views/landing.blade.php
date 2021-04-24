@@ -12,7 +12,7 @@
 {{--                    <h1>Eagle Internet</h1>--}}
                     <ul style="color: black;font-size: 25px">
                         <li>No Data Limits</li>
-                        <li>Guaranteed Speed</li>
+                        <li>No Contract Required</li>
                         <li>No Hidden Charges</li>
                         <li>In House Support</li>
                     </ul>
@@ -40,34 +40,34 @@
 </div>
 
 
-<section class="features-area bg-image ptb-100">
-    <div class="container">
-        <div class="section-title">
-<span>
+{{--<section class="features-area bg-image ptb-100">--}}
+{{--    <div class="container">--}}
+{{--        <div class="section-title">--}}
+{{--<span>--}}
 {{--<span class="icon">--}}
 {{--<i class="flaticon-wifi"></i>--}}
 {{--</span>--}}
-<h3>OUR SERVICES</h3>
-</span>
+{{--<h3>OUR SERVICES</h3>--}}
+{{--</span>--}}
 {{--            <h2>We are internet service provider company in Alabama, United States</h2>--}}
-        </div>
-        <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="single-features-box">
-                    <div class="icon">
-                        <i class="fa fa-wifi"></i>
-                    </div>
-                    <h3>FIXED WIRELESS</h3>
+{{--        </div>--}}
+{{--        <div class="row">--}}
+{{--            <div class="col-lg-4 col-md-6 col-sm-6">--}}
+{{--                <div class="single-features-box">--}}
+{{--                    <div class="icon">--}}
+{{--                        <i class="fa fa-wifi"></i>--}}
+{{--                    </div>--}}
+{{--                    <h3>FIXED WIRELESS</h3>--}}
 {{--                    <p>Lorem ipsum dolor sit do eiusmod sit consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>--}}
-                    <div class="back-icon">
-                        <i class="flaticon-speedometer"></i>
-                    </div>
-                    <div class="image-box">
-                        <img src="{{url('')}}/assets/img/shape-image/2.png" alt="image">
-                        <img src="{{url('')}}/assets/img/shape-image/2.png" alt="image">
-                    </div>
-                </div>
-            </div>
+{{--                    <div class="back-icon">--}}
+{{--                        <i class="flaticon-speedometer"></i>--}}
+{{--                    </div>--}}
+{{--                    <div class="image-box">--}}
+{{--                        <img src="{{url('')}}/assets/img/shape-image/2.png" alt="image">--}}
+{{--                        <img src="{{url('')}}/assets/img/shape-image/2.png" alt="image">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 {{--            <div class="col-lg-4 col-md-6 col-sm-6">--}}
 {{--                <div class="single-features-box">--}}
 {{--                    <div class="icon">--}}
@@ -84,25 +84,25 @@
 {{--                    </div>--}}
 {{--                </div>--}}
 {{--            </div>--}}
-            <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
-                <div class="single-features-box">
-                    <div class="icon">
-                        <i class="fa fa-database"></i>
-                    </div>
-                    <h3>DATA CENTER</h3>
+{{--            <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">--}}
+{{--                <div class="single-features-box">--}}
+{{--                    <div class="icon">--}}
+{{--                        <i class="fa fa-database"></i>--}}
+{{--                    </div>--}}
+{{--                    <h3>DATA CENTER</h3>--}}
 {{--                    <p>Lorem ipsum dolor sit do eiusmod sit consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>--}}
-                    <div class="back-icon">
-                        <i class="flaticon-support"></i>
-                    </div>
-                    <div class="image-box">
-                        <img src="{{url('')}}/assets/img/shape-image/2.png" alt="image">
-                        <img src="{{url('')}}/assets/img/shape-image/2.png" alt="image">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+{{--                    <div class="back-icon">--}}
+{{--                        <i class="flaticon-support"></i>--}}
+{{--                    </div>--}}
+{{--                    <div class="image-box">--}}
+{{--                        <img src="{{url('')}}/assets/img/shape-image/2.png" alt="image">--}}
+{{--                        <img src="{{url('')}}/assets/img/shape-image/2.png" alt="image">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--</section>--}}
 
 
 
@@ -150,14 +150,14 @@
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="single-services-box" style="border-color: lightgrey;height: 300px;overflow-y: scroll" >
+                <div class="single-services-box" style="border-color: lightgrey;height: 370px;" >
                     <div class="icon">
                         <i class="fa fa-book-open"></i>
                     </div>
                     <h3>NO DATA LIMITS</h3>
                     <hr>
                     <p>
-                        Eagle Internet does not enforce any data caps. Therefore, you can download or upload large files (software, updates, large email attachments, etc.), run a VoIP phone system, stream music in your home or office, or use internet-based applications and databases as much as you need to in order to keep your business running at its best.
+                        Eagle Internet does not enforce any data caps. You can download or upload large files (software, updates, large email attachments, etc.), run a VoIP phone system, stream music in your home or office, or use internet-based applications and databases as much as you need.
 
 
                         {{--                        Download or upload at your maximum rates 24/7! Never worry about getting throttled or going over your rate package limits.--}}
@@ -178,7 +178,7 @@
 {{--                </div>--}}
 {{--            </div>--}}
             <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="single-services-box" style="border-color: lightgrey">
+                <div class="single-services-box" style="border-color: lightgrey;height: 370px;">
                     <div class="icon">
                         <i class="fa fa-credit-card"></i>
                     </div>
@@ -186,7 +186,7 @@
                     </h3>
                     <hr>
                     <p>
-                        We have no hidden charges and no overage fees.
+                        There are no hidden charges and no overage fees.
                     </p>
                 </div>
             </div>
@@ -205,7 +205,7 @@
 {{--                </div>--}}
 {{--            </div>--}}
             <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="single-services-box" style="border-color: lightgrey">
+                <div class="single-services-box" style="border-color: lightgrey;height: 370px;">
                     <div class="icon">
                         <i class="fa fa-tools"></i>
                     </div>
@@ -246,7 +246,7 @@
                     </h3>
                     <hr>
                     <p>
-                        We do not want our customers to sign any contract. They can cancel their subscription anytime.
+                        There is no annual contract and subscribers may cancel their service at anytime with no cancellation fees.
                     </p>
                 </div>
             </div>

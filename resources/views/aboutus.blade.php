@@ -14,13 +14,11 @@
                 {{--                    et dolore magna aliqua. Quis ipsum suspendisse ultrices.</p>--}}
             </div>
             <div>
-                <p style="padding-bottom: 20px">Eagle Internet reaches out to metropolitan and underserved rural
-                    communities alike with reliable, high‐speed connectivity; strong roots in customer service; and a
+                <p style="padding-bottom: 20px">Eagle Internet reaches out to underserved rural communities in the Blackbelt region with reliable, high‐speed connectivity; strong roots in customer service; and a
                     desire to play a role in the economic growth of the region. We are a full‐scale broadband provider,
-                    equipped to service customers with High Speed Broadband Services through Fixed Microwave Wireless
+                    equipped to service customers with High Speed Broadband Services through Fixed Wireless
                     Technology. With our dedicated staff of employees, we are also a one‐stop source for our customers
-                    when it comes to, Network Consulting, Wireless Bridges, Emergency Broadband Services and Wireless
-                    Hotspots for large or small events.
+                    when it comes to, Network Consulting Wireless Bridges and Emergency Broadband Services.
 
                 </p>
             </div>
