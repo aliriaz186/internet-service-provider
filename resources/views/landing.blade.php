@@ -14,15 +14,16 @@
                         <li>No Data Limits</li>
                         <li>No Contract Required</li>
                         <li>No Hidden Charges</li>
-                        <li>In House Support</li>
+{{--                        <li>In House Support</li>--}}
+                        <li>Not Satellite-based</li>
                     </ul>
 
 {{--                </div>--}}
             </div>
             <div class="col-lg-3">
                 <div class="btn-box" style="padding: 30px;margin-top: 70px">
-                    <h1>BLAZING</h1>
                     <h1>FAST</h1>
+                    <h1>RURAL</h1>
                     <h1>INTERNET</h1>
                     <a target="_blank" href="https://www.towercoverage.com/" class="btn btn-primary" style="background: rgb(215, 0, 46);color: white">Get Started</a>
                 </div>
@@ -110,7 +111,11 @@
   <div class="container">
      <div style="text-align: center">
          <h1>LOCALLY <span style="color:rgb(215, 0, 46);">OWNED</span></h1>
-         <p>Our headquarters are located Demopolis, Alabama near our coverage area. We feel an extra level of responsibility to provide a great product and customer service.</p>
+         <p>
+             Eagle Internet is a Demopolis-based-veteran owned and operated company. We are especially focused on delivering quality Internet service to the local communities where we live, work and serve.
+
+         </p>
+{{--         <p>Our headquarters are located Demopolis, Alabama near our coverage area. We feel an extra level of responsibility to provide a great product and customer service.</p>--}}
       </div>
   </div>
 </section>
@@ -157,7 +162,7 @@
                     <h3>NO DATA LIMITS</h3>
                     <hr>
                     <p>
-                        Eagle Internet does not enforce any data caps. You can download or upload large files (software, updates, large email attachments, etc.), run a VoIP phone system, stream music in your home or office, or use internet-based applications and databases as much as you need.
+                        Eagle Internet does not enforce any data caps. You can stream video every day of the month, run a VoIP phone system, stream music in your home or office, or use internet-based applications and databases as much as you need.
 
 
                         {{--                        Download or upload at your maximum rates 24/7! Never worry about getting throttled or going over your rate package limits.--}}
@@ -214,30 +219,30 @@
                     </h3>
                     <hr>
                     <p>
-                        We don't outsource support to foreign based call centers. Our support team work alongside our engineers and network monitoring personnel.
+                        Support is provided by our Demopolis-based support team. No outsourced foreign-based call centers.
+{{--                        We don't outsource support to foreign based call centers. Our support team work alongside our engineers and network monitoring personnel.--}}
 
 
                     </p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="single-services-box" style="border-color: lightgrey">
+                <div class="single-services-box" style="border-color: lightgrey;height: 450px">
                     <div class="icon">
                         <i class="fa fa-location-arrow"></i>
                     </div>
-                    <h3>LOCALLY OWNED
+                    <h3>Not Satellite-based
 
                     </h3>
                     <hr>
                     <p>
-                        Our headquarters are located in Demopolis, Alabama near our coverage area. We feel an extra level of responsibility to provide a great product and customer service.
-
+                        Eagle Internet's service is transmitted from local transmission towers and is not satellite-based service. Our service does not suffer from the low latency, data limits and tapering that occurs with Satellite-based services. Eagle's service generally supports online gaming, Voice Over IP phone service (VoiP), home surveillance camera systems, and other Internet applications.
 
                     </p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="single-services-box" style="border-color: lightgrey">
+                <div class="single-services-box" style="border-color: lightgrey;height: 450px">
                     <div class="icon">
                         <i class="fa fa-handshake"></i>
                     </div>
@@ -252,7 +257,7 @@
             </div>
 
             <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="single-services-box" style="border-color: lightgrey">
+                <div class="single-services-box" style="border-color: lightgrey;height: 450px">
                     <div class="icon">
                         <i class="fa fa-credit-card"></i>
                     </div>

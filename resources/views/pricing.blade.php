@@ -10,7 +10,7 @@
             <div class="section-title">
                 <span>
                     <h3 style="color: black;font-weight: bold">RESIDENTIAL PLANS</h3>
-                    <h4 style="color: black"> Upload Speeds = 10% of Download Speeds</h4>
+{{--                    <h4 style="color: black"> Upload Speeds = 10% of Download Speeds</h4>--}}
                 </span>
             </div>
             <div class="row">
